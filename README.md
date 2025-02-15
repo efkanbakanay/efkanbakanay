@@ -41,9 +41,6 @@ I'm a passionate developer who loves to build things and solve problems. Welcome
             alt="mssql" width="40" height="40"
             data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
             style="max-width: 100%;"> </a>
-   <a href="https://redis.io" rel="nofollow"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-            alt="redis" width="40" height="40" > </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
   </a>
