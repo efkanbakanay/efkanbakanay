@@ -2,8 +2,6 @@
 
 I'm a passionate developer who loves to build things and solve problems. Welcome to my GitHub profile!
 
-## 🔧 Technologies & Tools
-
 ## 🛠️ Languages and Tools
 
 <p align="left">
