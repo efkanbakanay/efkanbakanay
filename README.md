@@ -75,10 +75,10 @@ I'm a passionate developer who loves to build things and solve problems. Welcome
     <img src="https://owasp.org/www--site-theme/favicon.ico" alt="zap" width="40" height="40" />
   </a>
   <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tenable/tenable-icon.svg" alt="nessus" width="40" height="40" />
+    <img src="https://www.tenable.com/themes/custom/tenable/images-new/favicons/tenable-favicon.svg" alt="nessus" width="40" height="40" />
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/burp_suite/burp_suite-icon.svg" alt="burp" width="40" height="40" />
+    <img src="https://portswigger.net/content/images/logos/apple-touch-icon.png" alt="burp" width="40" height="40" />
   </a>
   <a href="https://nmap.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="40" height="40" />
@@ -87,7 +87,7 @@ I'm a passionate developer who loves to build things and solve problems. Welcome
     <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40" />
   </a>
   <a href="https://www.metasploit.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40" />
+    <img src="https://www.metasploit.com/includes/images/favicon.ico" alt="metasploit" width="40" height="40" />
   </a>
 </p>
     
