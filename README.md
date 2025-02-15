@@ -29,9 +29,21 @@ I'm a passionate developer who loves to build things and solve problems. Welcome
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
+   <a href="https://redis.io" rel="nofollow"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+            alt="redis" width="40" height="40" > </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
   </a>
+   <a
+        href="https://www.microsoft.com/en-us/sql-server" rel="nofollow"> <img
+            src="https://camo.githubusercontent.com/29dde2a136637475ff7726f780237361f2f1915e8e37b67fadb0b2eb5af21478/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667"
+            alt="mssql" width="40" height="40"
+            data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+            style="max-width: 100%;"> </a>
+   <a href="https://redis.io" rel="nofollow"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+            alt="redis" width="40" height="40" > </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
   </a>
