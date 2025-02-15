@@ -81,7 +81,7 @@ I'm a passionate developer who loves to build things and solve problems. Welcome
     <img src="https://portswigger.net/content/images/logos/apple-touch-icon.png" alt="burp" width="40" height="40" />
   </a>
   <a href="https://nmap.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="40" height="40" />
+    <img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="40" height="40" />
   </a>
   <a href="https://www.wireshark.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40" />
