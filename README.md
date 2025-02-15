@@ -72,7 +72,7 @@ I'm a passionate developer who loves to build things and solve problems. Welcome
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
   </a>
   <a href="https://owasp.org/www-project-zap/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/zaproxy/zaproxy-icon.svg" alt="zap" width="40" height="40" />
+    <img src="https://owasp.org/www--site-theme/favicon.ico" alt="zap" width="40" height="40" />
   </a>
   <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tenable/tenable-icon.svg" alt="nessus" width="40" height="40" />
